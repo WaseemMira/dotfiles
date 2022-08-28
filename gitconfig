@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = waseem007_mira@hotmail.com
+	name = Waseem Mira
